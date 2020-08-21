@@ -1,0 +1,11 @@
+com\eshop\microservices\ribboncartservice\model\CartVO.class
+com\eshop\microservices\ribboncartservice\model\Item.class
+com\eshop\microservices\ribboncartservice\model\CartProcessResponse.class
+com\eshop\microservices\ribboncartservice\repository\CartRepository.class
+com\eshop\microservices\ribboncartservice\service\CartService.class
+com\eshop\microservices\ribboncartservice\RibbonCartServiceApplication.class
+com\eshop\microservices\ribboncartservice\model\Price.class
+com\eshop\microservices\ribboncartservice\controller\CartRibbonController.class
+com\eshop\microservices\ribboncartservice\service\CartToVoMapper.class
+com\eshop\microservices\ribboncartservice\RibbonConfiguration.class
+com\eshop\microservices\ribboncartservice\model\Cart.class
